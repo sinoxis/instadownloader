@@ -5,6 +5,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+          <meta name="monetag" content="8e7b017832054843cfa3ba823e3206ad">
           <link
             rel="apple-touch-icon"
             sizes="180x180"
