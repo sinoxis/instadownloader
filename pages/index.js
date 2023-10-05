@@ -40,7 +40,7 @@ const Index = () => {
           Youtube Thumbnail Downloader
         </h1>
         <p className="text-gray-600">
-          Download high-quality thumbnails from YouTube videos.
+          Download high-quality thumbnails from YouTube videoss.
         </p>
       </header>
       <div className="text-center">
