@@ -47,6 +47,9 @@ const Index = () => {
             gtag('config', 'G-JJ2MNZKP7L');
           `}
         </script>
+         <NextHead>
+          <meta name="monetization" content="8e7b017832054843cfa3ba823e3206ad" />
+        </NextHead>
       </Head>
       <header className="text-center mb-8">
         <h1 className="text-3xl font-bold mb-2">
