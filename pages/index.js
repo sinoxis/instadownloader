@@ -36,6 +36,18 @@ const Index = () => {
 
   return (
     <div className="container mx-auto px-4 py-8">
+    <Head>
+        {/* Google Analytics script goes here */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JJ2MNZKP7L"></script>
+        <script>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-JJ2MNZKP7L');
+          `}
+        </script>
+      </Head>
       <header className="text-center mb-8">
         <h1 className="text-3xl font-bold mb-2">
           Youtube Thumbnail Downloader
