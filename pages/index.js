@@ -58,6 +58,7 @@ const Index = () => {
         <p className="text-gray-600">
           Take your YouTube channel to the next level by easily downloading high-quality thumbnails in various resolutions. Our user-friendly application lets you gain inspiration from other creators' thumbnails, perfect for spicing up your own videos. Just paste the video URL, click 'Download Thumbnails' and elevate your content with eye-catching visuals tailored to your needs.
         </p>
+      </div>
       </header>
       <div className="text-center">
         <input
