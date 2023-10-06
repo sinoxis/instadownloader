@@ -1,5 +1,6 @@
 import { useState } from "react";
 import copy from "copy-to-clipboard";
+import Head from "next/head"; // Import the Head component
 
 const Index = () => {
   const [videoURL, setVideoURL] = useState("");
