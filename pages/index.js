@@ -1,6 +1,8 @@
 import { useState } from "react";
 import copy from "copy-to-clipboard";
 import Head from "next/head"; // Import the Head component
+import { NextScript } from "next/document"; // Import NextScript for meta tags
+
 
 const Index = () => {
   const [videoURL, setVideoURL] = useState("");
