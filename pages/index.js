@@ -48,7 +48,8 @@ const Index = () => {
             gtag('config', 'G-JJ2MNZKP7L');
           `}
         </script>
-          <meta name="monetization" content="8e7b017832054843cfa3ba823e3206ad" />
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2948655136055631"
+     crossorigin="anonymous"></script>
       </Head>
       <header className="text-center mb-8">
         <div className="flex flex-col items-center">
